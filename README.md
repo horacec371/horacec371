@@ -1,9 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Tektronix Taiwan (www.tek.com.tw).
-- 🌱 I’m currently learning information technology as much as possible by teaching & learning approach.
-- 📫 How to reach me: horace.isa@gapp.nthu.edu.tw
-
+### Learning is a way of life 👋
 
 <!--
 **horacec371/horacec371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
