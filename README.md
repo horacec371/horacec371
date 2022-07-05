@@ -1,4 +1,4 @@
-## Learning by realization is a way of my life 👋
+## Self Realization - Go Beyound Limits 👋
 
 <!--
 **horacec371/horacec371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
