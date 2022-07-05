@@ -1,8 +1,5 @@
 ## Self Realization - Go Beyound Limits 👋
 
-![image](https://user-images.githubusercontent.com/55008636/177294993-ab8edf8c-0b3f-463d-9d79-42bf772411a2.png)
-
-
 <!--
 **horacec371/horacec371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
