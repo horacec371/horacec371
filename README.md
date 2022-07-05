@@ -1,4 +1,4 @@
-## Self Realization - Go Beyound Limits 👋
+## Self Realization - Go Beyound Limits 🙏
 
 <!--
 **horacec371/horacec371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
